@@ -1,0 +1,381 @@
+Kode MK,Nama Mata Kuliah,SKS
+KP8700,Kerja Praktek,2.0
+KM8800,Komprehensif,1.0
+TA8800,Tugas AkhirSkripsi,4.0
+705101,AlQuran Dan Ilmu Tafsir,2.0
+705104,Bahasa Arab I,2.0
+705102,Bahasa Indonesia,2.0
+705103,Bahasa Inggris,2.0
+705106,Fisika Dasar,3.0
+705105,Kalkulus I,3.0
+705108,Kimia Dasar,3.0
+705110,Pendidikan Pancasila dan Kewarganegaraan,2.0
+705107,Pengantar Teknologi Informasi,2.0
+705109,Pengetahuan Lingkungan,2.0
+705111,Praktik Ibadah,0.0
+705219,Algoritma dan Pemrograman,4.0
+705217,Aljabar Linier,3.0
+705212,Bahasa Arab II,2.0
+705216,English Communication Skill,2.0
+705211,Hadits dan Ilmu Hadits,2.0
+705213,Ilmu Budaya Dasar  Ilmu Sosial Dasar,2.0
+705215,Ilmu Fiqih,2.0
+705214,Ilmu TauhidAqidah,2.0
+705218,Kalkulus II,3.0
+705220,Komputer dan Masyarakat,2.0
+705221,Praktik Tilawah,0.0
+705328,Komunikasi Data,2.0
+705325,Logika Informatika,3.0
+705326,Organisasi  Arsitektur Komputer,3.0
+705329,Pengantar Basis Data,3.0
+705327,Probabilitas dan Statistika,3.0
+705330,Sistem Informasi,3.0
+705438,Grafika Komputer,2.0
+705431,Jaringan Komputer,3.0
+705430,Matematika Diskrit,3.0
+705436,Metode Numerik,3.0
+705434,Rekayasa Perangkat Lunak I ,3.0
+705432,Sistem Operasi,3.0
+705433,Sistem Teknologi Basis Data,3.0
+705322,Sejarah Peradaban Islam,2.0
+705324,Struktur Data,3.0
+705534,Etika Profesi,2.0
+705538,Interpersonal Skill,2.0
+705536,Pemrograman Berorientasi Objek,3.0
+705535,Rekayasa Perangkat Lunak II,3.0
+705533,Riset Teknologi Informasi,2.0
+705539,Teori Bahasa dan Otomata,3.0
+705435B,Pemrograman Web I ,2.0
+705602,Anal Peranc Sistem Berorientasi Objek,3.0
+705605,Intelegensia Buatan,3.0
+705601,Interaksi Manusia dan Komputer,3.0
+705603,Keamanan Komputer ,3.0
+705604,Manajemen Proyek Perangkat Lunak,3.0
+705652,Sistem Multimedia,3.0
+705608,Kerja Praktek,3.0
+MAT8101,Kalkulus I,3.0
+IF8101,Pengantar Teknologi Informasi,2.0
+705537,Pemrograman Web II,3.0
+705758,ecommerce,3.0
+705740,Kewirausahaan,2.0
+705759,Sistem Basisdata Terdistribusi,3.0
+705742,WirelessMobile Computing,3.0
+705323,Akhlak Tasawuf,2.0
+705649,Sistem Informasi Geografis,3.0
+705880,Kuliah Kerja Nyata,2.0
+705883,Sistem Informasi Enterprise,3.0
+705882,Tugas Akhir Skripsi,6.0
+KM8600,Komprehensif,2.0
+UN8205,Hadits dan Ilmu Hadits,2.0
+UN8301,Sejarah Peradaban Islam,2.0
+FIS8101,Fisika Dasar,2.0
+UN8201,Akhlak Tasawuf,2.0
+MAT8201,Kalkulus II,3.0
+FIS8101L,Praktikum Fisika Dasar,1.0
+UN8104,Bahasa Inggris,2.0
+IF8504,Sistem Operasi,3.0
+UN8101,AlQuran dan Ilmu Tafsir,2.0
+UN8102,Bahasa Arab I,2.0
+IF8402,Pemrograman Berorientasi Objek,2.0
+IF8402L,Praktikum Pemrograman Berorientasi Objek,1.0
+IF8301,Algoritma dan Struktur Data,2.0
+MAT8304,Logika Informatika,3.0
+MAT8303,Matematika Diskrit,3.0
+UN8208,Ilmu TauhidAqidah,2.0
+IF8403,Organisasi dan  Arsitektur Komputer,3.0
+IF8405,Teori Bahasa dan Otomata,3.0
+IF8301L,Praktikum Algoritma dan Struktur Data,1.0
+IF8503,Sistem Informasi,3.0
+UN8206,Ilmu Budaya Dasar  Ilmu Sosial Dasar,2.0
+IF8505,Jaringan Komputer,2.0
+IF8501,Sistem Basis Data,2.0
+IF8404L,Praktikum Rekayasa Perangkat Lunak,1.0
+IF8404,Rekayasa Perangkat Lunak,2.0
+IF8605,Intelegensia Buatan,3.0
+IF8606,Manajemen Proyek Perangkat Lunak,3.0
+IF8706P,Sistem Informasi Enterprise,3.0
+IF8506,Interaksi Manusia dan Komputer,3.0
+IF8701L,Praktikum Sistem Multimedia,1.0
+IF8702P,Sistem Informasi Geografis,3.0
+IF8701,Sistem Multimedia,2.0
+705745,Sistem Terdistribusi,3.0
+KIM8101,Kimia Dasar,2.0
+KIM8101L,Praktikum Kimia Dasar,1.0
+IF8507,Komunikasi Antar Personel,2.0
+UN8202,Bahasa Arab II,2.0
+UN8207,Ilmu Fiqih,2.0
+IF8406,Strategi Algoritma,3.0
+IF8401,Basis Data,2.0
+IF8401L,Praktikum Basis Data,1.0
+IF8601,Jaringan Komputer Lanjut,2.0
+IF8601L,Praktikum Jaringan Komputer Lanjut,1.0
+IF8801,Kewirausahaan dan Etika Bisnis,2.0
+MAT8301,Probabilitas dan Statistika,3.0
+IF8407,Grafika Komputer,3.0
+UN8105,Pancasila dan Kewarganegaraan,2.0
+IF8501L,Praktikum Sistem Basisdata,1.0
+IF8201,Dasar Pemrograman,2.0
+UN8203,English for Special Purpose,2.0
+IF8701P,ECommerce,3.0
+IF8201L,Praktikum Dasar Pemrograman,1.0
+EL8201,Dasar Rangkaian Elektrik,2.0
+IF8703P,WirelessMobile Computing,2.0
+IF8502L,Praktikum Rekayasa Perangkat Lunak Lanjut,1.0
+IF8502,Rekayasa Perangkat Lunak Lanjut,2.0
+UN8204,Filsafat dan Pengetahuan Lingkungan,2.0
+MAT8302,Matematika Teknik,3.0
+EL8301L,Praktikum Teknik Digital,1.0
+EL8301,Teknik Dijital,3.0
+IF8603,Kriptografi,2.0
+MAN8601,Manajemen,3.0
+IF8602,Pemrograman Internet,2.0
+IF8603L,Praktikum Kriptografi,1.0
+IF8602L,Praktikum Pemrograman Internet,1.0
+IF8604,Sistem Terdistribusi,3.0
+IF8505L,Praktikum Jaringan Komputer,1.0
+EKT8801,Ekonomi Teknik,2.0
+KKM880,Kuliah Kerja Mahasiswa,2.0
+IF8703,Metode Penelitian,2.0
+IF8704P,Mobile Programming,2.0
+EKM8701,Pengantar Ekonomi Makro,2.0
+IF8712P,Pengolahan Citra Digital,3.0
+IF8707P,Perawatan Perangkat Lunak,3.0
+IF8704PL,Praktikum Mobile Programming,1.0
+IF8703PL,Praktikum WirelessMobile Computing,1.0
+IF8702,Proyek Perangkat Lunak,3.0
+IF8705P,Sistem Basis Data Terdistribusi,3.0
+TI8181,Praktek Tilawah,0.0
+UN8103,Bahasa Indonesia,2.0
+IB8180,Praktek Ibadah,0.0
+IF8709P,Information Retrieval,3.0
+IF8708P,Data Mining,3.0
+IF15201,Algoritma dan Pemrograman,2.0
+MAT15301,Aljabar Linier  Aljabar Geometri,3.0
+FIS15101L,Praktikum Fisika Dasar,1.0
+UN15101,Bahasa Arab,2.0
+UN15302,Hadits dan Ilmu Hadits,2.0
+UN15206,Ilmu Fiqih,2.0
+MAT15201,Kalkulus II,3.0
+UN15204,Pengetahuan Lingkungan,2.0
+UN15407,Akhlaq Tasawuf,2.0
+FIS15101,Fisika Dasar,2.0
+UN15303,Ilmu TauhidAqidah,2.0
+TW15101,Praktek Tilawah,0.0
+UN15102,Bahasa Inggris I,2.0
+UN15202,Bahasa Inggris II,2.0
+UN15203,Pancasila  Kewarganegaraan,2.0
+MAT15101,Kalkulus I,3.0
+IF15401L,Praktikum Basis Data,1.0
+MAT15303,Probabilitas dan Statistika,3.0
+IB15201,Praktek Ibadah,0.0
+IF15401,Basis Data,2.0
+IF15402,Rekayasa Perangkat Lunak,2.0
+IF15302,Organisasi dan Arsitektur Komputer,3.0
+MAT15302,Matematika Diskrit,3.0
+MAT15202,Logika Informatika,3.0
+IF15405,Strategi Algoritma,3.0
+IF15406,Sistem Operasi,3.0
+IF15102,Dasar Pemrograman,2.0
+IF15102L,Praktikum Dasar Pemrograman,1.0
+IF15404,Teori Bahasa dan Otomata,3.0
+IF15506,Intelegensia Buatan,3.0
+IF8711P,Parallel Computing,3.0
+IF15402L,Praktikum Rekayasa Perangkat Lunak,1.0
+IF15403L,Praktikum Pemrograman Berorientasi Objek,1.0
+IF15501L,Praktikum Sistem Basis Data,1.0
+IF8710P,Sistem Cerdas,3.0
+UN15201,AlQuran dan Ilmu Tafsir,2.0
+IF15507,Manajemen Proyek Perangkat Lunak,3.0
+IF15201L,Praktikum Algoritma dan Pemrograman,1.0
+IF15505,Interaksi Manusia dan Komputer,3.0
+IF15301L,Praktikum Struktur Data,1.0
+UN15301,Sejarah Peradaban Islam,2.0
+IF15101,Pengantar Informatika,2.0
+IF15403,Pemrograman Berorientasi Objek,2.0
+IF15502,Jaringan Komputer,2.0
+IF15602,Proyek Perangkat Lunak,3.0
+IF15504L,Prak Pengembangan Aplikasi Web,1.0
+TA15801,Tugas Akhir dan Seminar,4.0
+IF15501,Sistem Basis Data,2.0
+IF15301,Struktur Data,2.0
+KM15801,Komprehensif,0.0
+KP15601,Kerja Praktik,2.0
+KKM15801,Kuliah Kerja Mahasiswa,2.0
+IF15504,Pengembangan Aplikasi Web,2.0
+IF15702,Sistem Multimedia,2.0
+IF15707P,Perawatan Perangkat Lunak,3.0
+IF15713P,Kriptografi,2.0
+IF15713PL,Praktikum Kriptografi,1.0
+IF15604,Grafika Komputer dan Visualisasi,3.0
+IF15503,Aplikasi Platform Khusus,2.0
+IF15502L,Praktikum Jaringan Komputer,1.0
+IF15503L,Prak Aplikasi Platform Khusus,1.0
+IF15601,Sistem Informasi,3.0
+IF15603,Sistem Terdistribusi,3.0
+IF15606,Jaringan Komputer Lanjut,2.0
+IF15606L,Prak Jaringan Komputer Lanjut,1.0
+IF15708P,Data Mining,3.0
+IF15702L,Praktikum Sistem Multimedia,1.0
+UN15205,Bahasa Indonesia,2.0
+IF15701P,ECommerce,3.0
+IF15704P,Mobile Programming,2.0
+OR15101,Olahraga,2.0
+IF15703P,WirelessMobile Computing,2.0
+IF15703PL,Praktikum WirelessMobile Computing,1.0
+MAN15601,Manajemen,2.0
+IF15706P,Sistem Informasi Enterprise,3.0
+IF15605,Komunikasi Antar Personel,2.0
+IF15709P,Information Retrieval,3.0
+IF15701L,Prak RPL Spesifik Domain,1.0
+IF15703,Kewirausahaan  Etika Bisnis,2.0
+IF218001,Tugas Akhir dan Seminar,4.0
+IF15702P,Sistem Informasi Geografis,3.0
+IF218003,Komprehensif,0.0
+IF15704PL,Praktikum Mobile Programming,1.0
+IF217001,Kerja Praktek/Magang,2.0
+IF15701,RPL Spesifik Domain,2.0
+IF15704,ICT dan Islam,2.0
+IF15712P,Pengolahan Citra Digital,3.0
+UN218502,Kuliah Kerja Mahasiswa,2.0
+IF215010,Intelegensia Buatan,3.0
+IF215004,Praktikum Jaringan Komputer,1.0
+IF215009,Interaksi Manusia dan Komputer,3.0
+IF217002,ICT dan Islam,2.0
+IF217003,Kewirausahaan,2.0
+IF217B01,Sistem Basis Data Terdistribusi,3.0
+IF217A02,Sistem Informasi Geografis,3.0
+IF217B03,Jaringan Komputer Lanjut,3.0
+IF216003,Sistem Terdistribusi,3.0
+IF216004,Grafika Komputer,3.0
+UN213509,Ilmu Tauhid/Aqidah,2.0
+TH213010,Tahfidz,0.0
+IB212010,Praktek Ibadah,0.0
+201004-705-02-007,Ilmu Fiqih,2.0
+IF215001,Manajemen Basis Data,2.0
+IF215002,Praktikum Manajemen Basis Data,1.0
+IF215011,Manajemen Proyek Perangkat Lunak,3.0
+IF215006,Praktikum Pengembangan Aplikasi Mobile,1.0
+IF215007,Pengembangan Aplikasi Web,2.0
+IF215008,Praktikum Pengembangan Aplikasi Web,1.0
+IF215005,Pengembangan Aplikasi Mobile,2.0
+IF216008,Praktikum Pembelajaran Mesin,1.0
+IF214004,Pemrograman Berorientasi Objek,2.0
+IF216007,Pembelajaran Mesin,2.0
+UN212507,Bahasa Inggris II,2.0
+IF214003,Rekayasa Perangkat Lunak,3.0
+TW211011,Praktek Tilawah,0.0
+IF217A01,E-Commerce,3.0
+201004-705-03-012,Praktek Ibadah,0.0
+IF214009,Praktikum Sistem Operasi,1.0
+IF216009,Metodologi Penelitian,2.0
+IF216002,Proyek Perangkat Lunak,3.0
+IF212002,Praktikum Algoritma dan Pemrograman,1.0
+IF217004,Sosio Informatika dan Profesionalisme,2.0
+IF217005,Kapita Selekta Informatika,2.0
+201004-705-01-006,Praktikum Algoritma dan Pemrograman,1.0
+IF213002,Praktikum Algoritma dan Struktur Data,1.0
+IF216001,Sistem Informasi,3.0
+201004-705-03-011,Praktek Tilawah,0.0
+IF211001,Pengenalan Informatika,2.0
+IF211002,Dasar Pemrograman,2.0
+IF211006,Kalkulus I,3.0
+IF211004,Fisika Dasar,2.0
+UN212506,AlQuran dan Ilmu Tafsir,2.0
+UN212509,Bahasa Indonesia,2.0
+UN212508,Pancasila dan Kewarganegaraan,2.0
+IF212505,Pengetahuan Lingkungan,2.0
+UN213508,Hadits dan Ilmu Hadits,2.0
+IF213003,Organisasi dan Arsitektur Komputer,3.0
+201004-705-01-007,Kalkulus II,3.0
+201004-705-02-003,Bahasa Indonesia,2.0
+201004-705-03-002,Pengetahuan Lingkungan,2.0
+IF215003,Jaringan Komputer,2.0
+IF212001,Algoritma dan Pemrograman,3.0
+IF214006,Probabilitas dan Statistika,3.0
+IF217D01,Penggalian Data,3.0
+IF217B02,Kriptografi,3.0
+IF211003,Praktikum Dasar Pemrograman,1.0
+IF211005,Praktikum Fisika Dasar,1.0
+IF211007,Olahraga,2.0
+UN211508,Bahasa Arab,2.0
+UN211509,Bahasa Inggris I,2.0
+UN211510,Ilmu Fiqih,2.0
+UN213507,Sejarah Peradaban Islam,2.0
+IF214005,Praktikum Pemrograman Berorientasi Objek,1.0
+IF214007,Strategi Algoritma,3.0
+IF15710P,Sistem Cerdas,3.0
+IF217A03,Sistem Informasi Lanjut,3.0
+IF217B07,Forensika Digital,3.0
+201004-705-01-043,Tugas Akhir dan Seminar,4.0
+201004-705-03-010,Komprehensif,
+201004-705-01-067,Ubiquitous computing,3.0
+201004-705-01-057,Forensika Digital,3.0
+IF217A05,Visualisasi Data,3.0
+IF217B06,Teknologi Grafika Komputer,3.0
+IF217A04,Sistem Temu Kembali Informasi,3.0
+UN214510,Akhlaq Tasawuf,2.0
+IF217A07,Teknologi Basis Data,3.0
+IF217D05,Pemrograman GameTeknologi Game,3.0
+IF217C01,Perawatan Perangkat Lunak,3.0
+IF214001,Basis Data,2.0
+201004-705-03-004,Kerja Praktek/Magang,2.0
+IF213006,Teori Bahasa dan Otomata,3.0
+IF214002,Praktikum Basis Data,1.0
+IF216005,Sistem Multimedia,2.0
+IF216006,Praktikum Sistem Multimedia,1.0
+IF217D03,Pengolahan Citra Digital,3.0
+IF213004,Aljabar Linier,3.0
+IF217B04,Keamanan Komputer dan Jaringan,3.0
+IF217C02,Pemrograman Paralel,3.0
+201004-705-03-013,Tahfidz,
+201004-705-02-001,Pancasila,2.0
+201004-705-01-025,Praktikum Manajemen Basis Data,1.0
+201004-705-03-007,Sosio-Informatika dan Profesionalisme,2.0
+201004-705-03-008,Kapita Selekta Informatika,2.0
+201004-705-03-005,ICT dan Islam,2.0
+201004-705-01-033,Intelegensia Buatan,3.0
+201004-705-01-024,Manajemen Basis Data,2.0
+201004-705-01-054,Keamanan Komputer dan Jaringan,3.0
+201004-705-01-028,Pengembangan Aplikasi Mobile,2.0
+201004-705-03-006,Kewirausahaan & Etika Bisnis,2.0
+201004-705-02-002,Kewarganegaraan,1.0
+IF213005,Logika Komputasional,2.0
+IF213001,Algoritma dan Struktur Data,3.0
+201004-705-01-031,Praktikum Pengembangan Aplikasi Web,1.0
+201004-705-01-032,Interaksi Manusia dan Komputer,3.0
+201004-705-01-034,Manajemen Proyek Perangkat Lunak,3.0
+201004-705-01-066,Deep learning,3.0
+201004-705-01-030,Pengembangan Aplikasi Web,2.0
+201004-705-01-065,Sains Data,3.0
+IF214008,Sistem Operasi,2.0
+IF217D02,Pembelajaran Mesin Lanjut,3.0
+201004-705-01-063,Pemrosesan Bahasa Alami,3.0
+IF19102L,Praktikum Dasar Pemrograman,1.0
+201004-705-01-026,Jaringan Komputer,2.0
+201004-705-01-029,Praktikum Pengembangan Aplikasi Mobile,1.0
+201004-705-03-009,Kuliah Kerja Mahasiswa,2.0
+201004-705-01-027,Praktikum Jaringan Komputer,1.0
+201004-705-02-005,Ulumul Quran,2.0
+201004-705-01-004,Kalkulus I,3.0
+201004-705-02-013,Fisika Dasar,2.0
+201004-705-01-008,Matematika Diskrit,3.0
+201004-705-01-013,Logika Komputasional,2.0
+201004-705-01-003,Praktikum Dasar Pemrograman,1.0
+201004-705-01-005,Algoritma dan Pemrograman,3.0
+201004-705-01-001,Pengenalan Informatika,2.0
+201004-705-02-014,Praktikum Fisika Dasar,1.0
+IF212003,Kalkulus II,3.0
+IF212004,Matematika Diskrit,3.0
+201004-705-01-012,Aljabar Linier,3.0
+201004-705-02-006,Ulumul Hadits,2.0
+201004-705-03-001,Olah Raga,2.0
+201004-705-01-011,Organisasi dan Arsitektur Komputer,3.0
+201004-705-02-004,Ilmu Tauhid,2.0
+201004-705-01-010,Praktikum Algoritma dan Struktur Data,1.0
+201004-705-02-009,Sejarah Peradaban Islam,2.0
+201004-705-01-009,Algoritma dan Struktur Data,3.0
+201004-705-01-014,Teori Bahasa dan Otomata,3.0
+201004-705-01-002,Dasar Pemrograman,2.0
+201004-705-02-010,Bahasa Arab,2.0
+201004-705-02-011,Bahasa Inggris I,2.0
+201004-705-02-012,Bahasa Inggris II,2.0

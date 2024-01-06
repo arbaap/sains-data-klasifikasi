@@ -7,6 +7,7 @@
 - 1207050020 Ayuni Tia Sari
 - 1207050095 Nurrohman
 - 1207050139 Dani Ali Kinan
+- 1197050062 Muhamad Luthfi Dzikri Rabbani
 
 ## Klasifikasi
 
